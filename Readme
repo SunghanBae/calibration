@@ -1,0 +1,5 @@
+This repository is about AIDA timestamp correction and imposing calibraiton of 2016 EURICA - AIDA data.
+
+The timestamp showed abnormal behavior of leap and drop by multiples of, usually unit of, 2^28 timestamp.
+
+The calibration is based on pulser run R59 in 2016 EURICA-AIDA experiment data (in 2018.04.26.)
